@@ -39,11 +39,11 @@ The experiments are demonstrated by jupyter notebooks. The source is under direc
 	- `demo_toy_run3.ipynb`
 	- `demo_toy_run4.ipynb`
 	- `demo_toy_run5.ipynb`
-- Small Datasets
+2. Small Datasets
 	- `demo_city45.ipynb`
 	- `demo_etex.ipynb`
 	- `demo_fmri.ipynb`
-- Large Datasets (traffic flow)
+3. Large Datasets (traffic flow)
 	- LA
 		- `demo_la_15min.ipynb`
 		- `demo_la_30min.ipynb`
