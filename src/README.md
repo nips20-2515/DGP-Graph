@@ -12,7 +12,8 @@ pip install gpuinfo
 pip install tensorflow-gpu==1.15
 pip install gpflow==1.5
 ```
-Otherwise, some basic packages like `numpy`
+Besides, some basic packages like `numpy` are also needed.
+
 ## Specification
 
 Source code and experiment result are both provided.
