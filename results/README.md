@@ -27,6 +27,8 @@ Source code and experiment result are both provided.
 	- `data`: datasets.
 	- `dgp_graph`: implemetation of our model.
 	- `*.ipynb`: jupyter notebooks for experiments.
+	- `run_toy.sh`: shell script to run additional experiment.
+	- `toy_main.py`: code for additional experiment (Traditional ML methods and DGPG with linear kernel).
 - `results/`: contains results of experiments
 	- `*.html`: experiment results demonstrated by static HTML files.
 
@@ -41,8 +43,14 @@ The experiments are demonstrated by jupyter notebooks. The source is under direc
 	- `demo_toy_run5.ipynb`
 2. Small Datasets
 	- `demo_city45.ipynb`
+	- `demo_city45_linear.ipynb` (linear kernel)
+	- `demo_city45_baseline.ipynb` (traditional regression methods)
 	- `demo_etex.ipynb`
+	- `demo_etex_linear.ipynb`
+	- `demo_etex_baseline.ipynb`
 	- `demo_fmri.ipynb`
+	- `demo_fmri_linear.ipynb`
+	- `demo_fmri_baseline.ipynb`
 3. Large Datasets (traffic flow)
 	- LA
 		- `demo_la_15min.ipynb`
